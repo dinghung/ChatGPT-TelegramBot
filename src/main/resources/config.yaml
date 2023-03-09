@@ -1,6 +1,6 @@
 ##必填标签
 #chatgpt_api通过OpenAI官网获取：https://platform.openai.com/account/api-keys
-chatgpt_api: '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'
+chatgpt_api: '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'
 #telegram_bot_token通过Telegram机器人@BotFather获取：https://t.me/BotFather
 telegram_bot_token: '6270625430:AAHjrDuNjG-yUKp9woqSiXr_5FNGjS_tS-Y'
 
